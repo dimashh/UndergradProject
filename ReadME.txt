@@ -1,6 +1,6 @@
-This folder contains the functions used for this system. They need to linked to Matlab so they can be recognised.
+This folder contains the functions used for this system. They need to be linked to Matlab so they can be recognised.
 
-To run the Perl Script, SwisTrack needs to recording.
+To run the Perl Script, SwisTrack needs to be recording.
 
 In order to run the Matlab scripts, SwisTrack needs to be recording. The comments in the code provide explanation about the operation. 
 
